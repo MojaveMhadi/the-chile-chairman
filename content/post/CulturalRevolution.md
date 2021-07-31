@@ -1,6 +1,6 @@
 ---
 title: "CulturalRevolution"
-date: 2021-07-31T18:14:06-05:00
+date: "2021-03-09"
 draft: false
 ---
 
