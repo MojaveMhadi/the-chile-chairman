@@ -1,6 +1,6 @@
 ---
-title: "GREATBABOONS"
-date: 2021-02-20T19:09:58-05:00
+title: "Cultural Revolution"
+date: 2021-07-31T18:14:06+00:00
 draft: false
 ---
 
