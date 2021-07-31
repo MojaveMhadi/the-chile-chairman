@@ -1,5 +1,5 @@
 ---
-title: "Cultural Revolution"
+title: "CulturalRevolution"
 date: 2021-07-31T18:14:06+00:00
 draft: false
 ---
