@@ -7,18 +7,28 @@ draft: false
 
 # Vaguely Mexican Rice
 
+
 # Provender: 
 
--1 cup jasmine rice
--2 cups chicken stock (homemade if possible)
--1.5 cups of the best canned peeled tomatoes (with juice) you can muster (in season go with fresh, cooked down to equivalent volume)
--1 jalapeño (or green pepper) deseeded and diced
--1/4 white onion diced
--2 cloves garlic minced
--1/2 tablespoon cumin powder
--salt to taste
--finely chopped cilantro for garnish
--wide skillet/pan with lid. Optimal is a 12” (30cm) or larger cast iron skillet.
+1. 1 cup jasmine rice
+
+2. 2 cups chicken stock (homemade if possible)
+
+3. 1.5 cups of the best canned peeled tomatoes (with juice) you can muster (in season go with fresh, cooked down to equivalent volume)
+
+4. 1 jalapeño (or green pepper) deseeded and diced
+
+5. 1/4 white onion diced
+
+6. 2 cloves garlic minced
+
+7. 1/2 tablespoon cumin powder
+
+8. Salt to taste
+
+9. Finely chopped cilantro for garnish
+
+10. Wide skillet/pan with lid. Optimal is a 12” (30cm) or larger cast iron skillet.
 
 # Method:
 
