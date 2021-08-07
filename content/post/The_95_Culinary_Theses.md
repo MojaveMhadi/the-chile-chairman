@@ -5,9 +5,9 @@ draft: false
 ---
 **The Ninety-Five Culinary Theses**
 
-1. The pan shall be preheated.
+1.The pan shall be preheated.
 
-2. If the pan is not cast iron, other party approved ferrous alloy, or copper, it is counter-revolutionary.
+2.If the pan is not cast iron, other party approved ferrous alloy, or copper, it is counter-revolutionary.
 
 3.Those commercial ventures (with or without party endorsement in general) serving pineapple on pizza shall be designated "enemies of the people". Following appearance at the nearest struggle session, their assets are forfeit, their party membership revoked.
 
@@ -29,8 +29,8 @@ draft: false
 
 12. Those persons ordering any steak "well done" shall be brought before the local party apparatus to effect self criticism and to renounce any other heretical, and or counter-revolutionary, practices. The need of further disciplinary actions shall be decided by the local party committee.
 
-13. Electric blenders shall be used for applications strictly in adherence to the party line.
+13.Electric blenders shall be used for applications strictly in adherence to the party line.
 
-14. The presence of coarse-grained salt in a kitchen a mark of the chef's political reliability.
+14.The presence of coarse-grained salt in a kitchen a mark of the chef's political reliability.
 
-15. Aversion to garlic shall be interpreted as a manifestation of western  imperialitst culinary tendencies. Reeducation of 5 years as the court shall remedy. 
+15.Aversion to garlic shall be interpreted as a manifestation of western  imperialitst culinary tendencies. Reeducation of 5 years as the court shall remedy. 
