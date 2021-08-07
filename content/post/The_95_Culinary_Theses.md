@@ -27,7 +27,7 @@ draft: false
 
 11.It shall be a capital offense to add tomato to guacamole, as shall it be to aid and abet those who perpetuate this reactionary practice. 
 
-12. Those persons ordering any steak "well done" shall be brought before the local party apparatus to effect self criticism and to renounce any other heretical, and or counter-revolutionary, practices. The need of further disciplinary actions shall be decided by the local party committee.
+12.Those persons ordering any steak "well done" shall be brought before the local party apparatus to effect self criticism and to renounce any other heretical, and or counter-revolutionary, practices. The need of further disciplinary actions shall be decided by the local party committee.
 
 13.Electric blenders shall be used for applications strictly in adherence to the party line.
 
