@@ -31,6 +31,6 @@ draft: false
 
 13.Electric blenders shall be used for applications strictly in adherence to the party line.
 
-14.The presence of coarse-grained salt in a kitchen a mark of the chef's political reliability.
+14.The presence of coarse-grained salt in a kitchen renders a mark of the chef's political reliability.
 
 15.Aversion to garlic shall be interpreted as a manifestation of western  imperialitst culinary tendencies. Reeducation of 5 years as the court shall remedy. 
