@@ -1,5 +1,5 @@
 ---
-title: "Barebones_Chicken_Stock"
+title: "Barebones_Chicken_Stock.md"
 date: "2021-08-07"
 draft: false
 ---
