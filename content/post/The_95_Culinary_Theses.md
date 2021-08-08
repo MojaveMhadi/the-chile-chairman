@@ -9,8 +9,8 @@ draft: false
 
 2.If the pan is not cast iron, other party approved ferrous alloy, or copper, it is counter-revolutionary.
 
-![alt text](![Wok](https://user-images.githubusercontent.com/78182615/128640892-5d094080-f09c-4bbf-9b3e-a1563a31ef3c.jpeg)
-)
+![wok](![Wok](https://user-images.githubusercontent.com/78182615/128640892-5d094080-f09c-4bbf-9b3e-a1563a31ef3c.jpeg)
+
 
 3.Those commercial ventures (with or without party endorsement in general) serving pineapple on pizza shall be designated "enemies of the people". Following appearance at the nearest struggle session, their assets are forfeit, their party membership revoked.
 
