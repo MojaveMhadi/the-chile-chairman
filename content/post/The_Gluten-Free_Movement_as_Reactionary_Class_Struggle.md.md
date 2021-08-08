@@ -1,5 +1,5 @@
 ---
-title: "Gluten-CulturalRevolution"
+title: "The_Gluten-Free_Movement_as_Reactionary_Class_Struggle.md"
 date: "2021-03-09"
 draft: false
 ---
