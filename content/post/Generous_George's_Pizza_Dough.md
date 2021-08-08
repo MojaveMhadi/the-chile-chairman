@@ -8,8 +8,6 @@ draft: false
   At this time, we have received reports, as yet unconfirmed, of increased radiation readings and "industrial noises" coming from the Oblate Temple on old Duke St. The Tsar of the New Dominion has declared a 2km perimeter of restricted area around the ruins. WHAT are THEY hiding?!
 
 # Generous George's Pizza Dough Clone (Sourdough)
-
-![The OG](Generous Georges.jpg)
   
 Yield = 2 round, 12"/30cm pizzas
 
