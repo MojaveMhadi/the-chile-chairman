@@ -9,6 +9,8 @@ draft: false
 
 # Generous George's Pizza Dough Clone (Sourdough)
 
+![OG](Generous Georges.jpg)
+
 Yield = 2 round, 12"/30cm pizzas
 
 * # Provender:
