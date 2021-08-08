@@ -9,7 +9,7 @@ draft: false
 
 # Generous George's Pizza Dough Clone (Sourdough)
 
-![OG](![Generous Georges](https://user-images.githubusercontent.com/78182615/128640471-645ccb35-5f49-47df-9e13-9c632fb2d919.jpeg)
+![OG](![Generous Georges](Generous Georges.jpeg)
 )
 
 Yield = 2 round, 12"/30cm pizzas
