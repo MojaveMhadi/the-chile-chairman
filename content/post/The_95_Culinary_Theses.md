@@ -37,3 +37,6 @@ draft: false
 14.The presence of coarse-grained salt in a kitchen renders a mark of the chef's political reliability.
 
 15.Aversion to garlic shall be interpreted as a manifestation of western  imperialitst culinary tendencies. Reeducation of 5 years as the court shall remedy. 
+
+![Adjarian](![Puri](https://user-images.githubusercontent.com/78182615/128649768-e6c36d62-1f26-4f44-af01-4783686d255c.jpeg)
+)
