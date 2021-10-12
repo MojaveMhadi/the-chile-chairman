@@ -40,3 +40,23 @@ draft: false
 
 (![Puri](https://user-images.githubusercontent.com/78182615/128649768-e6c36d62-1f26-4f44-af01-4783686d255c.jpeg)
 )
+
+16.The Politburo holds that true BBQ consists of pork cooked on wood.
+
+17.The use of lighter fluid shall be considered a reactionary tendency.
+
+18.High fructose corn syrup is a lever of oppression for the parasitic class in general and the landlord in particular.
+
+19.Sourdough is the only form of leavening to conform with the party line. Use of commercial yeast shall result in internal exile to Stockton.
+
+20.All non-Uzbek versions of pilaf are counter-revolutionary. 
+
+21.Usage of knife and fork to effect the consumption of a burger must be first met with a struggle session. Repeat offense shall be met with reeducation to last 20 years.
+
+22.Sale, possession, production, consumption, or ideation of canned cheese spray shall be grounds for summary forfeiture of one's sorghum harvest.
+
+23.Shawarma in lavash exemplifies the revolutionary struggle of the laboring class against the pita-pushing landlords of the eastern Mediterranean and their conspirators in Hellas.
+
+24.Those found to be engaged in toy hoarding with connection to speculation on the Happy Meal market shall be force fed filet-o-fish smoothies for a period of 80 days. 
+
+25.The addition of mayo to Borscht constitutes a crime against the people and the revolutionary character of the state.
