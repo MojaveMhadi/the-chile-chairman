@@ -12,6 +12,7 @@ draft: false
 5. 2 cups / 473ml tomato sauce (use canned, peeled tomatoes reduced to this volume)
 6. 32oz / 950ml beef or chicken stock. Use homemade stock if at all possible.
 7. 1 poblano chile (skin charred/removed) diced
+8. Salt to taste
 
 # Method:
 1. In a large skillet cook onions until translucent over medium heat.
