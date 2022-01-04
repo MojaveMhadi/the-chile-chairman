@@ -5,13 +5,13 @@ draft: false
 ---
 
 # Provender:
--2lbs / 1kg ground beef (80/20)
--1 medium size sweet onion (finely chopped)
--1 small carrot (finely chopped)
--1 celery stalk (finely chopped)
--2 cups / 473ml tomato sauce (use canned, peeled tomatoes reduced to this volume)
--32oz / 950ml beef or chicken stock. Use homemade stock if at all possible.
--1 poblano chile (skin charred/removed) diced
+1. 2lbs / 1kg ground beef (80/20)
+2. 1 medium size sweet onion (finely chopped)
+3. 1 small carrot (finely chopped)
+4. 1 celery stalk (finely chopped)
+5. 2 cups / 473ml tomato sauce (use canned, peeled tomatoes reduced to this volume)
+6. 32oz / 950ml beef or chicken stock. Use homemade stock if at all possible.
+7. 1 poblano chile (skin charred/removed) diced
 
 # Method:
 1. In a large skillet cook onions until translucent over medium heat.
