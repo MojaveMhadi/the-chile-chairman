@@ -48,4 +48,4 @@ draft: false
 
 8. Turn the heat to low and maintain a simmer with the lid on for 20-25 min (when all the water is absorbed) *I find the ideal way is to cut the heat at 20 minutes and let the residual heat in the cast iron pan handle the last 5 mins. This greatly reduces the chance of burning the bottom layer of rice.*
 
-9. Stir around with a fork adding the cilantro then eat once you have fulfilled the daily work quota according to the local party cadre.
+9. Stir around with a fork adding the cilantro then eat once you have fulfilled the daily work quota.
